@@ -4,7 +4,7 @@
 
 Text now to get college project done
 
-[![Whatsapp Contact](https://via.placeholder.com/50)](https://api.whatsapp.com/send?phone=917676409450&text=Hello)
+[![Whatsapp Contact](https://www.projectmart.in/_next/static/media/Logo.99b856f5.svg)](https://api.whatsapp.com/send?phone=917676409450&text=Hello)
 
 Contact us now on **Whatsapp**
 
