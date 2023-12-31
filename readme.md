@@ -38,18 +38,3 @@ Password: 123
 ## EduFirm School & College Web Portal CMS - CodeCanyon Item for Sale
 
 https://www.projectmart.in/
-
-```javascript
-import React from 'react';
-
-const EmbeddedCTA = () => {
-  return (
-    <iframe
-      src="https://www.projectmart.in/cta"
-      style={{ width: '100%', height: '500px', border: 'none' }}
-      title="Embedded CTA"
-    ></iframe>
-  );
-};
-
-export default EmbeddedCTA;
